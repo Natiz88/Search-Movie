@@ -19,15 +19,15 @@ const Navbar = () => {
         <GiHamburgerMenu className="hamburger-menu" onClick={() => toggle()} />
       )}
       <div className="logo">
-        <Link to="/">
+        <Link to="https://natiz88.github.io/Search-movie/">
           <img src={Logo} alt="" />
         </Link>
       </div>
       <div className={isOn ? "links-expanded" : "links"}>
-        <Link to="/Search-movie">Home</Link>
-        <Link to="/Search-movie">Movies</Link>
-        <Link to="/Search-movie">Login</Link>
-        <Link to="/Search-movie">Register</Link>
+        <Link to="https://natiz88.github.io/Search-movie/">Home</Link>
+        <Link to="https://natiz88.github.io/Search-movie/">Movies</Link>
+        <Link to="https://natiz88.github.io/Search-movie/">Login</Link>
+        <Link to="https://natiz88.github.io/Search-movie/">Register</Link>
       </div>
     </div>
   );

@@ -7,8 +7,14 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/Search-movie" element={<InputField />} />
-        <Route path="/Search-movie/SingleItem/:id" element={<SingleItem />} />
+        <Route
+          path="https://natiz88.github.io/Search-movie/"
+          element={<InputField />}
+        />
+        <Route
+          path="https://natiz88.github.io/Search-movie/SingleItem/:id"
+          element={<SingleItem />}
+        />
       </Routes>
     </BrowserRouter>
   );
