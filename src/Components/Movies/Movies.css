@@ -1,0 +1,45 @@
+.container {
+    background-color: #1f2833;
+  }
+  .Movies {
+    font-family: sans-serif;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-around;
+    padding-top: 60px;
+  }
+  .movie {
+    cursor: pointer;
+    margin-bottom: 50px;
+    width: 260px;
+    height: 430px;
+    transition: transform 0.2s linear;
+  }
+  .movie:hover img {
+    transform: scale(1.03);
+    border: 5px solid #6ac045;
+  }
+  .movie img {
+    width: 250px;
+    height: 350px;
+    object-fit: fill;
+    border: 5px solid;
+    border: 5px solid #f5fffa;
+    transition: transform 0.2s linear;
+    margin-bottom: 20px;
+  }
+  .movie h3:hover {
+    color: grey;
+  }
+  .movie h3 {
+    text-decoration: none;
+    color: white;
+  }
+  a {
+    text-decoration: none;
+  }
+
+  

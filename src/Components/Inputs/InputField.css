@@ -1,0 +1,65 @@
+.inputContainer {
+    height: 100vh;
+    background-color: #1f2833;
+  }
+  .inputs {
+    width: 40%;
+    margin: auto;
+    padding-top: 120px;
+    display: flex;
+    align-items: center;
+  }
+  .inputs input {
+    width: 400px;
+    height: 30px;
+  }
+  .inputs input:focus {
+    outline: none;
+  }
+  .inputs button {
+    width: 150px;
+    height: 36px;
+    margin-left: 5px;
+    font-size: 18px;
+    border: none;
+    border-radius: 2px;
+    background-color: tomato;
+    color: white;
+    cursor: pointer;
+  }
+  .inputs .filter {
+    padding: 10px;
+    margin-left: 5px;
+    color: white;
+    border-right: 2px;
+    background-color: tomato;
+    cursor: pointer;
+  }
+  .field {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 40%;
+    margin: auto;
+    height: 60px;
+    margin-top: 20px;
+    transition: display 3s ease-in;
+    background: white;
+    color: black;
+    z-index: 100;
+    font-size: 18px;
+  }
+  .field select {
+    width: 100px;
+    height: 30px;
+    font-size: 16px;
+  }
+  @media (max-width: 600px) {
+      .inputs{
+        width: 80%;
+      }
+      .field{
+        width: 80%;
+      }
+  }
+  
