@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@200&display=swap');
 .container {
     background-color: #1f2833;
   }
@@ -17,6 +18,7 @@
     width: 260px;
     height: 430px;
     transition: transform 0.2s linear;
+  font-family: 'Anek Malayalam', sans-serif;
   }
   .movie:hover img {
     transform: scale(1.03);
@@ -29,13 +31,13 @@
     border: 5px solid;
     border: 5px solid #f5fffa;
     transition: transform 0.2s linear;
-    margin-bottom: 20px;
   }
   .movie h3:hover {
     color: grey;
   }
   .movie h3 {
     text-decoration: none;
+    font-size: 18px;
     color: white;
   }
   a {

@@ -174,6 +174,355 @@
       "actors": "Johnny Depp, Helena Bonham Carter, Emily Watson, Tracey Ullman",
       "plot": "When a shy groom practices his wedding vows in the inadvertent presence of a deceased young woman, she rises from the grave assuming he has married her.",
       "posterUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_Aa9UTz6cobYWYwFuagU5kGeM2XOPZmNn-MFyl22VcpP6t-HI"
-    }
+    },
+    {
+      "id": 17,
+      "title": "The Third Man",
+      "year": "1949",
+      "runtime": "93",
+      "genres": [
+          "Film-Noir",
+          "Mystery",
+          "Thriller"
+      ],
+      "director": "Carol Reed",
+      "actors": "Joseph Cotten, Alida Valli, Orson Welles, Trevor Howard",
+      "plot": "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMwNzMzMTQ0Ml5BMl5BanBnXkFtZTgwNjExMzUwNjE@._V1_SX300.jpg"
+  },
+  {
+      "id": 18,
+      "title": "The Beach",
+      "year": "2000",
+      "runtime": "119",
+      "genres": [
+          "Adventure",
+          "Drama",
+          "Romance"
+      ],
+      "director": "Danny Boyle",
+      "actors": "Leonardo DiCaprio, Daniel York, Patcharawan Patarakijjanon, Virginie Ledoyen",
+      "plot": "Twenty-something Richard travels to Thailand and finds himself in possession of a strange map. Rumours state that it leads to a solitary beach paradise, a tropical bliss - excited and intrigued, he sets out to find it.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2ViYTFiZmUtOTIxZi00YzIxLWEyMzUtYjQwZGNjMjNhY2IwXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"
+  },
+  {
+      "id": 19,
+      "title": "Scarface",
+      "year": "1983",
+      "runtime": "170",
+      "genres": [
+          "Crime",
+          "Drama"
+      ],
+      "director": "Brian De Palma",
+      "actors": "Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio",
+      "plot": "In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAzOTM4MzEwNl5BMl5BanBnXkFtZTgwMzU1OTc1MDE@._V1_SX300.jpg"
+  },
+  {
+      "id": 20,
+      "title": "Sid and Nancy",
+      "year": "1986",
+      "runtime": "112",
+      "genres": [
+          "Biography",
+          "Drama",
+          "Music"
+      ],
+      "director": "Alex Cox",
+      "actors": "Gary Oldman, Chloe Webb, David Hayman, Debby Bishop",
+      "plot": "Morbid biographical story of Sid Vicious, bassist with British punk group the Sex Pistols, and his girlfriend Nancy Spungen. When the Sex Pistols break up after their fateful US tour, ...",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExNjA5NzY4M15BMl5BanBnXkFtZTcwNjQ2NzI5NA@@._V1_SX300.jpg"
+  },
+  {
+      "id": 21,
+      "title": "Black Swan",
+      "year": "2010",
+      "runtime": "108",
+      "genres": [
+          "Drama",
+          "Thriller"
+      ],
+      "director": "Darren Aronofsky",
+      "actors": "Natalie Portman, Mila Kunis, Vincent Cassel, Barbara Hershey",
+      "plot": "A committed dancer wins the lead role in a production of Tchaikovsky's \"Swan Lake\" only to find herself struggling to maintain her sanity.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzY2NzI4OTE5MF5BMl5BanBnXkFtZTcwMjMyNDY4Mw@@._V1_SX300.jpg"
+  },
+  {
+      "id": 22,
+      "title": "Inception",
+      "year": "2010",
+      "runtime": "148",
+      "genres": [
+          "Action",
+          "Adventure",
+          "Sci-Fi"
+      ],
+      "director": "Christopher Nolan",
+      "actors": "Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy",
+      "plot": "A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg"
+  },
+  {
+      "id": 23,
+      "title": "The Deer Hunter",
+      "year": "1978",
+      "runtime": "183",
+      "genres": [
+          "Drama",
+          "War"
+      ],
+      "director": "Michael Cimino",
+      "actors": "Robert De Niro, John Cazale, John Savage, Christopher Walken",
+      "plot": "An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania.",
+      "posterUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnSyYP07a0fVsJ4bHQYQwDvrlr4c_DPraTsIEQ2XSVkrW1yCXP"
+  },
+  {
+      "id": 24,
+      "title": "Chasing Amy",
+      "year": "1997",
+      "runtime": "113",
+      "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+      ],
+      "director": "Kevin Smith",
+      "actors": "Ethan Suplee, Ben Affleck, Scott Mosier, Jason Lee",
+      "plot": "Holden and Banky are comic book artists. Everything's going good for them until they meet Alyssa, also a comic book artist. Holden falls for her, but his hopes are crushed when he finds out she's gay.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDM3MTg2MGUtZDM0MC00NzMwLWE5NjItOWFjNjA2M2I4YzgxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+  },
+  {
+      "id": 25,
+      "title": "Django Unchained",
+      "year": "2012",
+      "runtime": "165",
+      "genres": [
+          "Drama",
+          "Western"
+      ],
+      "director": "Quentin Tarantino",
+      "actors": "Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington",
+      "plot": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+      "posterUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnm2FczCxSnt69XUZqqI5-sfy66SvjiV0du9mfUKRRCGqVAurt"
+  },
+  {
+      "id": 26,
+      "title": "The Silence of the Lambs",
+      "year": "1991",
+      "runtime": "118",
+      "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+      ],
+      "director": "Jonathan Demme",
+      "actors": "Jodie Foster, Lawrence A. Bonney, Kasi Lemmons, Lawrence T. Wrentz",
+      "plot": "A young F.B.I. cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2NzkzMDI4OF5BMl5BanBnXkFtZTcwMDA0NzE1NA@@._V1_SX300.jpg"
+  },
+  {
+      "id": 27,
+      "title": "American Beauty",
+      "year": "1999",
+      "runtime": "122",
+      "genres": [
+          "Drama",
+          "Romance"
+      ],
+      "director": "Sam Mendes",
+      "actors": "Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley",
+      "plot": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+      "posterUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmTjFSeom8h-5-rDq_dB4AEQFSLLDuX0A-F1Shuxdck9fmqdEl"
+  },
+  {
+      "id": 28,
+      "title": "Snatch",
+      "year": "2000",
+      "runtime": "102",
+      "genres": [
+          "Comedy",
+          "Crime"
+      ],
+      "director": "Guy Ritchie",
+      "actors": "Benicio Del Toro, Dennis Farina, Vinnie Jones, Brad Pitt",
+      "plot": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+      "posterUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxQUExYUFBQWFxYXGCAYGRkXGRwZHxkgJCMbHiEZGx8fHykhHh4mIBsfIjIjJiosLy8vGSE1OjUuOSkuLywBCgoKDg0OHBAQGy4mISY0LjQuLi4uLjA3LjA3MC45Li4uLi4uLi4uLi4uMC4uLi4uLi4wMC8uLi4uLi4uMC4uLv/AABEIARMAtwMBIgACEQEDEQH/xAAcAAACAgMBAQAAAAAAAAAAAAAABwUGAwQIAQL/xABIEAACAQMCAgcDBwkGBgIDAAABAgMABBESIQUxBgcTIkFRYXGBkRYjMqGxwdIUQlJUcpKT0fAIM2KCsuEVJDRjovFDwiU1s//EABoBAQACAwEAAAAAAAAAAAAAAAACAwEEBQb/xAAxEQACAgEDAgQDCAIDAAAAAAAAAQIRAwQSITFBBRNRcTJhgQYUIiOhsdHwQsEkMzT/2gAMAwEAAhEDEQA/AEdRRRQBRRRQBRTX6oerSO+Q3V1q7EMUSNTp7QjmWI3CjONsEnO4xvcLKy6M3EotIlhaQnSuntl1EeCybBj5d459aA54opqdN+reKyv7NVLPa3M6IVY95O+oZNQxsVbY89j5ZN7471ScLQJKf+XhjbXMzSt3lxgJl2IUFiMnntgbnIA5worpbh3QXgN7EwtkjYLsXilfWhPInLH1xqBBxSts+rJ34u/DjIQkY7RpMbmLukEDlqOtV8gc88YoBd0V0dxHox0dsCsNwsYdhn515XYjlqODhc454A2qN6X9VfD+wW8tWKRJplcB2eOSHILsrElgQhLAgkYGMb5AFL6G9U8t/arcrcRxhiw0sjEjSSOYPpS3rsHoRb2aWirYtqt8tpIZm3ydW7b880l7roLY31/DBwuQdiIjJPIGZ9GGxtq/OOQAPf4GgFNRXSdz0L4BYhY7gRB2GxnmbWw5asagFGfEACq11l9VFvHbPd2OpRGut4tRdWTxdCSWBA33JBA29QME/VfZjg/5cGm7X8kWfGtdOooG5aM4yeWaTFdYcH4Z+U8Egg1aRLZRIW56QY1BPwqvcB6J9HpSbWHsZ5AO9867O2ObBgwHt0bUBzhRV962ug68NnTsmJgmDNGGOWQrjUhPiBqXB574PLJoVAFFFFAAor0UUB5RRRQBRRRQDp6musa2trf8jum7LDlo5MErhsEq2MkHOTnGMHwxvd26C8HvT21voD51CS0l0lSDnUApKqwPjpzVZ6muN2E1otnOkAnTUo7RUBlViWGliN2AJGOeFBre4Z1KwwXKXCXkoWNw6rhQ2xzguDyPI93kaArnS3ofdWd9YO11Nc2z3cSp2rszRvqB0sCcHIBwwxyOw8bP/aKmYcPiUEgNcLqweYCSHB8xnB9oFavWd0xt5bmwtIpEcpexSyurAqmltOktyz3iT5ad6+f7Ql9FJYwiOWNyLgEhWVjjRJvsaAgP7NzH8puR4GFT8GH8zU30k4JeXXHpUtZ3tgIIzLKhIIXwUAEaiSNhkcifCq7/AGeLqOO6uC7ogMIALMFz3h51fbPpTbRcbuY3lQC4hhEb6hpLJr7mrOATr29mOZGQIjpB0U4LbyFuJXs005ALdtKWcjGB3Y11AYG2auHHJYW4JO1uNMBsX7IYIwnZnTsd+XnVZ6b9VttPdSX096YYnw0gIXwAXuyM2ACByKmp684jaT8IlitJY9D2skUCM6oThWRVwxBGcY72PWgNfqN//URfty/62qq/2aoV7O8f84tGvuAc/aT8KmOojjUDcPW3MqCWN31IzANhjqDAHmN8ZHiKiuEG24BxBYO2Z7e7i77vpPZurEITp/NwWB2/OB5CgF11wTM/FrrUT3WVRnwARcY9PH315B0y4qLb8nWSQ2/ZGLT2KMOzwVK6jGTjTtnNOvpT1Z2PE5RdiVgXA1NCyMsgAADZIIzgAZHgBUX1n9LLax4eeHWzK0jRdgEVtXZR40kufBiuwB3JOaAmJJinRwMpII4cuCPDMQG1I7qjYji1p+2R/wCDinJdcQi+ToTtY9f/AA9Rp1rnPZrtjOc+lJfqqlVeKWrMQqiQ5JIAHdbmTQDJ/tLDuWX7Uv2RUiad/wDaMvY5Es9EiPhpc6WDY2j54NJCgCiiigPRRXgooDsP5E8O/UbX+BH+Gj5E8O/UbX+BH+Gp+igID5E8O/UbX+BH+Gj5E8O/UbX+BH+Gp+igID5E8O/UbX+BH+Gj5F8Pxj8htseXYx/yqfooCA+RPDv1G1/gR/ho+RPDv1G1/gR/hqfooCA+RPDv1G1/gR/ho+RPDv1G1/gR/hqfooCA+RPDv1G1/gR/ho+RPDv1G1/gR/hqfooCA+RPDv1G1/gR/ho+RPDv1G1/gR/hqfooCAHQrh36ja7/APZj/DR8ieHfqNr/AAI/w1P0UBAfInh36ja/wI/w0fInh36ja/wI/wANT9FAQHyJ4d+o2v8AAj/DR8ieHfqNr/Aj/DU/RQEB8ieHfqNr/Aj/AA0fInh36ja/wI/w1P0UBAfInh36ja/wI/w0VP0UAUUUUAUUUUAUUVX+KdLrSB+zkl7w5hVZtPoSBgH050BYKK1rK9jlQSROroeTKcj/AN+lbNAFFFFAFFFQPTTpAtjZy3LDJQYRf0nJwo9mTv6A0BO0Vz/0c6WODJPNcXMkj7lNblFXIOyjuDyxkbDAG5yzeDcT1xJNDJ2iHc4OxHiD5Hnz3BFV+ZyX+Q9t2XSisUEyuMqcistWFAUUUUAUUUUAUUUUAUUUUAVB8Z6VWdqdNxcxRtjOhmGrB5HSO9jbyr56acbNnZT3IAZo1yoJwCSQoz6ZYbVzjwDgl1fySXHZtM7ZLPIwUO2cMB64OAOXsxWG0upKMXJ0jp/hfEoZ0EkMiSIeTIwYezbkfStyubuAcVaxvLRIu1iZpFjnhdWRmVnHdbUNJ06u6fIneukayYap0a3EJSkUjLzVGYeO4BIpYXtjwsMzMYiVPfJlZsnzbvYyTzpncRt9cbL4kbe0bj6wKU3EFgjLp2EWqQjX4Ywc7jH+/OqM0mqNnTwUrLL1fXSdvPHHp7J1SRQpyurvK2n2hVyP8NX6l51f2SPM8qoqrENKgDGCw5+WQM/vVl6zONyIFtYWKGRS8jjmEzjSp8CxyCeeOXPInjdx5K8sVvpFxTi0BcRiaIueSCRSx9gzmt2kJxjgrCNNFrIqxor63AjZd9tBDEqw3xjBG2wpldV/SF7u0+cJMsMjQuTzOnBVmPiSpGT55q3jsypxa6lxpVde9rLJDbxxkuJJgDDgDJCuQwbIIG+CDkfRO2O81ao3Wc6RrBO8oTspNkxvLnAIBzyXAc7fmCoydIljVySEoLG6ihljWJQgA7Q9qgwP84HiRt6ivvq2teISzSwWh0jRqcO+EXJA1fRO5B8BuPZTT4l0jTEZVD2epS7kHGAcllxnVyxyA5nPhWfqq4xbXEt28bJ2xcKF5N2KgaW9Rrd8kf4c+FUwe7ho2ssfLSknyL/hfSK4tJ5Y+0lWVXIlDnVqYHcnOzc858iCNjTR6LdPI59Ec2ElbYMPoP5Y/RJ8jt674qr9bPD7R3WdJ4VnyEdC395gHScqe44GRk4yNt8AVRoZSAASR5HYj2ZGPrArtYMOPLiUWqaPO6vUZMeZ5E7T7dvodLVWON9ObS3JVmZyNmEY1BfaxIXPpnNVSLj817w64t1mEV0kRKyE47RBgtv+axUaSfDVnzwuOHdBJZFVpHkZGzlgVQAYyDrYsx32K6R7dq5uaLxScZHV00o5o7o8j/4B0ptbsfMTo7eKZww9qnf3japuucOrLorKvELd2Zo1PzqOrL3wudUR8SCe6TgDY+ldHisdjMlToKibzpDbxyCJpMyfooryEeWrQp059cVt8VuDHDK6jLJGzAeZAJA+qqlb9IYljOkSO6BdXZISQX5bnAJ8Tg/bUJS2k4Q3FyguFZQ6sGU8iDkHwr2qj0a4izXkq4ZUmhSVQwKEuCysSp/OKgZ9EFFTINU6NzrI4b2/D549aR7K5aQ6UwjK5DHwBC4z4ZpX9ForqFY1imRIzG2I3UEu6qe4m/5xA9dzzqx9afBo7m1D9q2tXAzk6SWIAVxnTkNgAHGMkDc1EdC5JVMSS4jSXAimaVY9QJA7MqRrdgzYBXAORk1Tkd9Db06STs2Oj/BJ+KXUNzdRLALNwSFB+dPddUG+V0kZPPmAOZw4zUFwO8XQUBB0HBxjKk94ax5lWDeoYe2lv1x9LbiK4S3ikeOPsgzFCUMjMTtqG+FAGwP5xzV+GG+oo1c0+XIY3SPpba2asZpF1hSRGp1OfIBRuM+ZwPWqTxHhc1yYpYDDquIhcMj4JQMFzpJGcZbHhnzFKOKItqyT3j9Z2z9dMrhvGBEi3BOlo7Y2yZOy4KjX7cqcD1rcyaHhGnDXbJNIj+DdJJ+HXUiL87FyljJAzJsC6EA4K40+RwfIGrP/AMajv5O2g1xSKvZlZFDbnUyv3WyV2IxkbkUsZruMgjSW9WGx9d96tfVtPCZpQ5Cs0WqNmICjSdTKSdtwM+xDVmo0uNYns6pFWl1mR5lv6N9yX6SS3Rh7Pt7csUZ3Yo6gqCB3cOSOe5z5e+f6nrErZdu+ddwxc+GQvcVgP8QGrPkwqh8cmtVnIUSPJlYpUKushDOmVJfck+GNjkHlTZ49xVEs53idT2atGNBB0P8AQ07cirbY8MVzMMG3XqdbVzUVfoe8Y6WW0GQ0mpx+YnePsPgPeRSiv7ybiN4ZAMmMFlizq0rsAoHjzJPnvUaQCMVl4RxR7a4SdMFUGl48buviAfA7gj1UVuazRrDBSvjoanhGueonLGofipu/RLt9Q6adH7yGAOjqttIwCJIAssZfnEhI1FfQHOBjG1Q3C7c2ukIcOwOXBwcDGo5G4XBxp8SQKtnTXj35ZOjLnsYhiJSMEkgFnYfpfmgeAHqarboWkLbYVQo9p7zfVpqXh+GE4uS6p1+nJHxbLkwtQlxat+tXxXpyfdzgrpIBU5yDyx4fzrTeNIV1AhBjJAbB+BB1H2/XXvGTpjZvIqT8cfcPjVbtYGuZgDhdW+CSBjxYnwHsHurf1GZQlVW+xx9JgeSN3Ue5L8O6RSiZZEXugMu65LBgVYYHjpLcgcVZeifSeVSbUhmUjtE7QZCkbsCGwCDz5jnjI2FVbinEimIjGmFG2jHd32bKgHHt35b1t8M40I5o5cBlVQwOkFihbQVwe7qD5wfDSWA7xrl6ndJO3bOzpVGDVKkSlhxu5sZTKyKkmWSBWGURWbUcDVvkZ2DeIp69HulEFwkZ7SNZWUaoiwDBvEBTuRnxFJHjPGrW5zrkGg/S5g4XnpBUEnAOMVT+EW0kuGCyEbmMKSxG4XAxvsSOWOWaqxSWSKi1TRbng8ctydpnXMqalKnxBFLa/vCG7Evoa3OGw5QEDDKSNtQxg4571Weh0fELacTZ0xMuHhmkY7bEnAz39tmPIee+fvpnNaXc2Je5O6ggAMO6O6BqGAeR2PrtVGbbdJ37FuCUvQuPV7drcyzTkklMBfEDVqzj4fXXtQHRPicUCJHZkMNTmRwCQxGV0+wHJHuPjXtS3xXBGVtjGv7RJo3ilUOjgqynxH3Hxz50qb/gxZ5khbMluzwkt+cjAtv+yztt6tjwpuJ4etKXoTxDtb27PMOGm+DkH6nHuFVy6ovwtxtjQtLJAEcKA2gLqGxI54PmM5Izyycc6rnWjwcXFhIcZkg+eQ+I0/THvQtt548qsVrO++VUII0KkHLFu9qBGMADC4IO+TWWcBgARkE6T7CDnPptj31bGWySaKJK1Rzpw+LOn2/z+/FSPHTpSOPPM9oRnlsFH3+/NeNbi3upYXPdi1hifFc907eajPvrU4jcNJKWYadgAPIYyM+u+9ehjJSqjz1OMm38zT042rPZt2ellAyjBgDuNjnB9K1jJ84V8NI++tmNqkqdmZSap/UZfHbRZxEyDCy4ftAcOq8xoYbgnKjmMYJpZPYvBfTwq7lNKk5b6eyEasbNg55+I86YnQq47S3KnnCxUeeO4wH/AJEe6q/0ptwLoPydoRnHLGpwuPgR7hXOwY1HNt+Z2dbl36Nz+S/UjE+iKyWkidoNedAYFgvMjAJA9vKsFm+R7yPrNfEONb/tf/Vas8Yf/HXujX+yyf36S+T/AHR9FuXkOf8AXpX1EuBv47n37493L3V8zMMY2Gdj7PH6qy6qj4N/0v3f7Fn2t/8AXH2X7s+VCF1Eia48jWucalyCRnwyBj31Tbi/IuXlUae+xCjbSMnujGwwOXlsfCrhIe8PZVF4xDolceGr6juPqNWeIRqpI53hkruP1LfxO2gMAdcHtSGyx7y7b8znOfPkGwAPpVWo1IJGwQ4yxwQoznZsbnIzhdicc9qhmYnnvjasiytkb5xyyeR+yue8t9UdXy66M27uRWBxkvqzkZAwSxIx55PPypi9WJmSMdoR2bbRAac47xbON9yBz37vspZxTaDnGTjfP+1MHopmKGBgMa5Sx3/SyB9RFauol+DjuX4Y3LkYEj5xnz88VR+nFhruolXVqlTQpU4Oe8M5wdu8oPoTy51aLybHZj9JsfUTUTxvi+mWGQRdpNGsqIvJct2fzrN4AKp25kttyzWtpp7Z316l2WFxr2Jmxs0t41hQHCjC6cBjjm2+25OSfXHiK8qP4GkhV3nfVLIQWIxhQM4RR4KPtJPM15UJS5JRjwNnit12UEsnjHGze8AkUjuAIUuAynGpWWQDxGBz+AHuFNHrIvOzspRnBkZEHxyR8ENL7odw7tY7mY7CJQqt4FuZB9wH74rZ5eRGcdLG2xmcI4rrgQ6Wdu07JyuDp21a2yfo4K8s7sKm3lCoWOwB/wBvvqucDhSBWBbbsxIzHZcjOWydsYKjPkoqxJhlODscEEb7bHI8KnPqyngTfTjhwfiVwSSM9k2ByyET6XpzPtxVVvLgK7/SbvHkCc4q4dL1M17P2ZOU0rt4lVAP15FU28j7zAnByeYHt8a72FOOJV1pHn8klLLK/wC8mlZyszuSNOygA++t7V6YNRFnKsbuCR3jtgeX/vxqTjkDcqzhla688mcsKd1xwXDq1vD280X6cOr3qyj7H+qo7pVxL/mZW3Kxnsl0gnUFySNhgd5mGT5VDcG4qYLhJFDHSGBwM5GltviAfdWxw25Lx9qVy5yTvuxyeZ9tQxxvM2nzRbqMtaWMGuLMHAp9Sk7jvNz9tZlfvv7fuWsXDZyzPqAV8nIHsGK8Rss/nqwB57AY+NUeIu9NFfM3PAONfKXTh/67mVpgCCM7c8+37K2iw1Yqy9Y/AFt4LUgjKJ2LYH0vztf7xfPq486q1o4ZAfEbVDwmW2Tx/X+Sz7RpZoRzx7Wn/o9k58/62qLu4UEwLYw4wSRkLy3x4nbAqQ1ZJ9NqwzlR3mGrGDj2V09TDfjZ5/ST8vIn9Ddi4bbR4eWMFiNu0XbfB1OSMZ2AA5AEncnNV264dEuWIHfkVV0g40jDM2PDbu49PbW4MzLIyCOFQcF9Pe5McKB5kEkny8ga+o0aUW9vGuGEcec5A1OwAaTHPY50+AGc55ce4+h3qZGpwiMDURkbD7PtJqzXJ0xW6jAHaxcuX0l2HpUBxu90JJBkM6OMt6owVQAOWVGr/NjwqS4g5aO3A5mVAP3hWnqKbSRt6bhNstl4/wDzFunkHc+7A++tS7JWRg25x3f82efwoE2bvVgnRbjlzOo5+6sl33pi3LurnPge9t7d60Fw17G2yTsG7tFY7I92ioPqZJXrcn2t4v8AE8nvACj/AFmqTb2tz2BWOcRoXMgQoMEnA1MeZ7oHsqzdZbmW+jiB2WNVPoTqYn90g+6te4lVABtttW4m9zZX/gke9DONXAuYrS57N45IpEQqp3Oz6TknI0qw5U0bi6WGORtPdiiL6RtsoJwPLYYpKT3HZTQ3JP8AcyK/+UHvAe1cj301+lVqEsr90LEvBK27EgHs9OFye6O6NhtkmrYPc1ZRk4ToU1vK6uZc99mLk+ZO5+O9anSO4jlYSJ3WIw688EeI8wd/gKibG/J0hm2XbBPLPOh7yMMSSCCCO73iPUev+9d95oONo83DFOOR33MVpwyR2dljaQrGXbG+kAjvH4+H2Zxr6nx3Snntz+J2I9lO7oRwWJLWN9PfmRXk3zq8Qp/wjJ29d80p+n/DBbzuqqRGxLREggFdtgSN9J7uRnw86045k5NI6TwSUU2edFuEGaXtJt4kVmwSO8w0qFwDqGC4bJGDpqVhtSmqMAt2ZxkLzG+GOBtkb199XdofyVpG/wDllGCfFV5A/wCYNVrh4ksKrp7zySZcprBOBgKGC4bCqNh4Dyqn748Lckr7F0vD46iKg3Vci14Y2ZZWDFskgn4D7q3LC2kkmZYsBgSwJyAMad8jfmRy3qX6R3olmDkEHQASQAWx4nHwOfEGtronbhYzN+dN3vYu+gfDf2sa2NR+bgjfd2UaVvBqZ7eaVGO+4DeTMNd2dIGTHqd1Yj1bB3O++cGq3HLoODtnY58D/W1MmzkrS4rZxnUAoHaZ1Y5nPr/W+9amOOzIpx7G/PKsmGWOau/0fqUm3buk+ZJr6flUfxWO7hUjQjoNu0XxHId3OQfdW/e6Y7p4dRMSOE1HAYAhNLZAH6Xl+bXU++41xycL7hku+CFhudMU8JKqScDzOxwPYefv8s1d+hqrDHJeSIpJTtMkfQCriMD1IVm2/NPrUDYcJVbhobgyBZs9nINIydsITpyGwpHhvW/xqFILaeInZisSsT+iocjc5JIYefIVz6ptnV7IX9xIHDyMfnGlLH375P11bYu8YMEgDU7EEg4CnYEcic499UiWXPL9In+VXPhyiSW1U5x9I789OG3x4ZAPurRy9Dcwlmsv+pnI8FCj0ArHFLqmnHPSyD/wU/fRapqmkGSNQzke01r2Ug7e6H/cT/QB91adcv2/g2W+hPWh7p9tFfFs3dPtoqtkiQ4kqvdTzEj+8KDG+y4X7FHwqA4heKJkTA72T7cD/epK2+hqzuSST5k1S7ufXfnB2jUJ7zk5+6ttIqbJfizg4B5FgPrFMI8RMvBZHO5NowPtCFT9YpbzqO0QnfBq19GbnXwa6/wpMuPe1W4l0fzKsr4fsLOG0ITOM+tanDWHalSPUVNscR7HG1VdZMTr+1j47ffXUyJQaZxcMpZYyXudOWMOiCNMbhFXbbkBUB0isLRxi4UNpORr72Dj21ZZcBRnPPG3hSp6xpplM3ZuiBiDqLBGwETIGeZ28N960L5OslxRLWV3DKHSD+7iYJ9EAAgcgBtgAj660OLRoCG0EldwQcf+/Ya86t7PTw9HzntZHc59ujf9zPvrL0hbus+wjQHfHPAyfcKPlGYunwVh7WeaONShXtGLZ8ond84PmNB2/wAQPiKtxwAANgNgB4Dyre4/YC3FrByMdtEpPqMgk++oq4kxnNWxk3wyqUF8S79TNbXOCR/Qr7vZOVRFhC5llk30ARpnP5x7Q4x7BmpG53A9tSIH0EXKkjkQaoPS4MOIS93Uj9kjA7A6ooyN+QPMg+lXqQ7HwGKmOk3R2Hs7J2gjWfscuwUAkhYh3j+dpGVGc4rDVtIOW1WUbg/FYpohBOrF8shIeMaSukByS407nZvPxrU6X8SY2sYdR26uYnkDKQ2APnFCk4LLsTtjBqV6XTdlaSDJy3cHs/8AVQHRPo7BLA0kqEnJwdRXA9xxUpKd1ZGM4uNtFKU777jyq89D+FFZIpWkydDME/RHLPPzIqk3IAdgOQYgezNMPoNbSCLW2QDqAUgjO4Orfn4/E1pZk9rNzA43z9CXsV+eP7NQ/AptVxen/uAfDWv3VOWy/Ok+AG9VboPL2jXL/pOrH3lzWslw37FzfKRdMYWvKx3cm1FVUWWerJphHljP30t+A3Gu5dv0iX+v/emHcWcky9hCMyOpVB/lP3DNQg6v7qxYzTqqxsNC4YE52OCAT4A1uLoyh/EjLkdohO/Pb3Hyqb6LyAcJu9sZEm2/iSPGq5JeJEwd/o4I5Md/8u/nV0j4DNBwy57SPSGQMCCCO8xO2+fEfGrcPNL5lebhSb9CgTbLVQlGqYDzYD66tl65VSBvVl6C9Wtve2gvGnnjdWcMqhCAUJIIyPLB9ua6GrlykcnQx4bGvxZSEOnmCDSe62I94ndNTHtAi55Yxljp54xn7adBPaLnPOkx1p8QWJpYkQGR8I0u5KoQrMi55AnnitA6hM9Xwzw2DAz/AHn/APR6kb+x1y20JfX2koVgOQXUmQPYuo1qdU9g0nD4yThdbgY5kav55qzWFur8UgjQdy3heYnzY/Nj4Byff6UCNfrOhInR/Bo8D3E5+0VULgd0H4+n9D76uvWjIBLDqOAI2J9mR/Kl3Fx2KRtCiVWI1BXULrXcBgdXd89xuPDlVnZMxHun/WSfR3LR3Y/R7F/3Syn6pvqrYmHdq4dD+hyRQTyrM8pu4lKhwB2eQzADHPvMN/8ACKojccidzDiRZASpDIQNWC2nIyM4U/CpRZW0Esm2M+GKu/SycNHaMpyDCcH+HVHuIRpyxwBv7Km7i71Wdg3h2cmD5jXj7ADU4/EirJ8DKN1iXHcjjHNjW9dEW3D8cjp+s1q8Tte1uVJ5BgAKOmK9tPb2inBllRPZqYLn4kfCrJcJyKo/iaiL+9s3icI4wxVHx6OquvxVgffTejQRhY+WlBt/XsrB1y8HWPilmyAKkiRpjHij6f8ASVHurX6T9ouHhYq/iQNWR+jg5HjWo8bnBpG15ihJNn1xCbs4Z3zgiJsH1I0j6yKrHV2+O3Hoh/1D761OkXSGYme2bQU7QrnThsK2RjBx4Dwq89R/RaO5guXdyPnUUBcZ7qufEeOsfu1r+U1FruX+YnJM9vWxsTXtR3Wk78PuhCiq8bRq6s4OTuQRsQNiv1ivar8mRb5sS39Wq674H9CN2+xf/tVr60Ys2y+kn3NUT1QWn9/L+zGD67s32rU31nf9GT5Ov2NVq+Arb/MElfRBtqbvTG5zwVCDjXHCM+3QfupQ3cm4x50zulgP/AIT5JAf9I++p6d/mIhrFeJ+zFffAaDkeFOLq2h0cFhGN3WQ/vyPg/Bh8KS1/OOyJ8gafkUS29hbQ+Cxxr+6uST7x9ddHWu2jk+Gxai79TR4johRpHlMcaDc7Aeg8yTyxjJNI3rEnaWaRiGXSVOhtjGrZ0h/+4wAYjwBA5g01uPTtH/zEih5BhbW3zkmRyFDsOQbfHjpGd9zlY9YsIhSOAuHmPzs7/pyPqYn2Y0gegFacFbd+jOnkdJV6oY3VqxXhkCgFe6x38cu5z76s3QaDNzdyeC9nCD66Q7f61+FYLa3VYUjRdIjUKo5bAYxVi6KWRjgGfpSO0jf5j3fggUe6oE30IXrGsk7NJycMhCAeDZIPuIxn3H3Kg9GHnu1aBGJdfnNyExkast+Ycb7HffFNTrRb5qEHl2hOPYP6+NQHVsxeSfHNUU58iScD4A/CrF8JX3LPwu3jW2WxjumEkMYjLxlQ/dwDjII2O3KqJxnhiwXVww7xkOdRHMEAkAcs6idwM71KQ8Gkt76a5RV+dJ7oB8dyS2fE7nA8cVZbrhIuYtDnDDdXA+ifHbyPiP5Ui0JCslOpSCNQOxU75HlU5xOZGitkiGhY7dEC7nBGc7nf31H31i0MjRNsyHBxy8wR6EEEe2ssfeTHiu321dBclGb4SMtiNeQpJB38fhWj0GH5Rx6HI1LGzN7NCMQfaHxWbpFxL8nt2x9N9l/nXv9n2yL8ReQ/wDxwM2fViqj6i1YzS42mMEedxdOu63+f4ZJ+jK6n39mR/pNVzix+bPrgfXmr11xWuuOz9LsH3COVj/ppa8enxGf686YejGbllK4nbh5HbbLMW2O+Dvv/XKnV/Z7tdFpOSMEzYPuUb/XSxjjBjQN+iN/aKbXUWii1nC5wJ8bnP5iH762NRhUce4r0+ffLb6ER/aE4WJFs38Q0iE+hCt9q/WaKm+uof8ALwcv70/6WoqGDFGULoxnzyhOkT3VvYGKwhJBDSjtmB59/cA+oXSD7Kg+uy+eOzjRRkSTAMc42AZsA4xqONs4qwdXvD2gsYkYnfLqrfmKxLKnpgEbeHLwqn9fnEuyt4FEmlmlY6P0sKRk75wCw+Irn9jor4hLMSkq6HYqSCVfmBnfOdxT86aIE4DgjOmKDbzOqLYetc6HBUsRrJ8SPsPM+008OnnSFLmxighm1ZjWWSVlKJhVzpOBgPq7xUctONqngjc1RHO/wOxQ8TvMow8D9ldGR3DS2dnIT3nhRj7SqH7a5cnuAQUAI3AGfv8AKukuE3Dvw/hu3eaBc+WyKNRx6b1fmnukUYMexUafEIUjZp5c4QFhnGRgEEjHI4JGdgAx8aTPSIvdTR5x2s8o7vlqwFHsAwPdTD60b9lhS1gDM8o3x4R5AJz/AIjhfXJqp9DJ1a7hznTAjzFcb5A0rjx5tnHoKjCtkrJZdzyRS6c/sMrpZxv8mgVlVnkk7kSYI1tjn6KACSfSmXaHKIfNR9lLY8UlD9nPFG9vIraosktnYbHkCdWMDO42O9MaNtICkbDYVSWsp3WrZSvDE0eO65Bz6jb2csZ9RXnVjaslszOMGSQnlv3cKc+8GtDrQF2xRY5ljgYA4aLV31OrLNkaTyI88HyqzdGkZLW3DkFhGuogYBJ3Jx4bnNT/AMSPc2bq1Qtk/Cvm0Kq2nz5V7xZtLITnSSdx4HG2fga0J5uWkZcnA9p2rCMkH05slMqPyLrjPnp8fgwHuqlTXTRsyRRSSAHBIZFGfEd5gT8KYPWTbStaK9vH2kqSABc4yGyDz2GDg+6knxg3luwWVY0lmyQqaTk7DU5BOfpFQDtknnVsZUVTjao0ulzTuyBo2UlsKoIfJ8ANJO9NXqH6NSW/5RLJpw6og0nOCCxYZ5EjK5xtvVQ6o+Bte3EglKJFEMyqmmORySQFOO8F55IxyAzvXQtnDHEipGFVFGFVdgBUJyTMwi1wV7rGs9dpqyQYpFcY9cxn6pCaRfSechTz3B3FdIcVtVlikhY4EiFMjmMjGR6jn7qQXH0aESwygrPHkYAyGPgy+YIII9vuqeJ8NEcie5OitX17phQjclVAHrinT1Ep/wDj3kxjtJ2PwWNftU1zldTtkgsWO/PfB8ffXQnUdxyE2UVpqxMgZ8EEawzM3dJAyVBGQM+B5VPUZ3NbSODCsZL9bsAayDHlHKrH3hl+1hRVr4xwxLiJoZBlGxn3EMPrFFZw6hQjVEM2n3y3WLqx4pxpBhoS37Qz9dVrrD4RxDiHZGSAIYtWCEOSDjbPlt9dPmvMVqG1Rya3QK9HJT8G/lW3wzoBxGQ9muynmCWx8CMGupdA8hRoHkKcGbfqJS76lmdVMcyxbDKCMkE89RJkO/oNtuVb/HL2XhNnbJcjtETMKtEME5BbcFsDZcbeVN+l51w9Fbm/t44rYRnRJ2jBm0k4VlAG2PzjzIrNgWo6YC6vYJ4YX+aC6lcgABS7DlnYuV/cqqQSXlnMZUUsxTRqKlsjIPLz2FWvox1Z8TgnVnt8KVwzdpGQPTCuSfDfblTTtug2R84Rms9jDu7ETB01vWljLyJqjftQJAERtOGCMNhzXbODk8+VPjoX1i299ojZHhndSRG4Ol8DLdk+MPgb42OPDasqdXtrnLRq/wC0MiobjfFuCcMfIht/ylM4WGNdatjkzgYjO/ic4PI0vgyk2y6SX/8AzQgXBAhMso5lcsFjA/axJ+561gun058qjOrq7M9s11IAJbmV3bByAFJjRAfJUQD25PMms3Grwh9Ixgc/6/rnWDNc0bttOJkaI/SA2J+r4HFffB+GsDrkxkfRGc+81qcFkQMzuwBxhcn4n7PrqcS9TlqB99LMFX6zpZY+HTyQkLJGUcHYjGtdWc+Gkmk1wHoRe8TaRzcRhon0NrYkhvpKyBdtJBwD7afnEmiue3s2zh4O8R+i/aJt6jTn3ik91W3clhxWe2nbCyfNMx5a0+g2eWCNQGf0xWexlKyc6K9VV1azNcflYMjqVOE55IJySfMCrg/AbrH/AFHwGKuNFRMC541wa6jhkk/KJ2KKSEjO7egpSX9yxmkYW9xNLjSHkWRjnGNhyx5betdQCvkqKw1ZOGTa7S5OSV6F38p1LaSjVv3hp5+erBppdGOhksbW0rTJGYdDlBA2dQGCpfXuNyMgCnNivCg8qyRsjX43EoyxI/ymit94FPNQfdRQwZaKKKAKKKKAKKKKAKKKKAKW/Heqm3nkZ+0lGpi2nuYBPMg6c7+2mRXhFDKdFV6KcFFhb9gGJjUlhnGRk5I2Hnv76wyWjzSkLy+kxPgPAf7VOX9ymGDEbbY9dv5j41G8C6QxMDlSm/NsZb1ODWQZU6NLzJ51mHR5RybFSSX8Z5MKyLcKeTChgpXFuhkzSCa3uWilXkwwR7GU5BFLW/6veKGV3eIy62ZmKNDhickt3nU+PkOVdCA17WCSk0QHQuO5W0iS7XEyAqe8GJAPdJIJGdOM7ncVP0UUIhRRRQBRRRQBRRRQBRRRQBRRRQBRRRQBRRRQBRRRQGpdWSvzANRc3Al8BU/RQFSfhDDlmvU4dIPE1a8V5pFZsELapIOZNTEOcb194r2sAKKKKAKKKKAKKKKAKKKKAKKKKAKKKKAKKKKAKKKKAKKKKAKKKKAKKKKAKKKKAKKKKAKKKKAKKKKAKKKKAKKKKAKKKKAKKKKAKKKKAKKKKAKKKKAKKKKAKKKKAKKKKAKKKKAKKKKAKKKKA//Z"
+  },
+  {
+      "id": 29,
+      "title": "Midnight Express",
+      "year": "1978",
+      "runtime": "121",
+      "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+      ],
+      "director": "Alan Parker",
+      "actors": "Brad Davis, Irene Miracle, Bo Hopkins, Paolo Bonacelli",
+      "plot": "Billy Hayes, an American college student, is caught smuggling drugs out of Turkey and thrown into prison.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyMDA5MzkyOF5BMl5BanBnXkFtZTgwOTYwNTcxMTE@._V1_SX300.jpg"
+  },
+  {
+      "id": 30,
+      "title": "Pulp Fiction",
+      "year": "1994",
+      "runtime": "154",
+      "genres": [
+          "Crime",
+          "Drama"
+      ],
+      "director": "Quentin Tarantino",
+      "actors": "Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta",
+      "plot": "The lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMTA5OTAzMl5BMl5BanBnXkFtZTgwNjA5MDc3NjE@._V1_SX300.jpg"
+  },
+  {
+      "id": 31,
+      "title": "Lock, Stock and Two Smoking Barrels",
+      "year": "1998",
+      "runtime": "107",
+      "genres": [
+          "Comedy",
+          "Crime"
+      ],
+      "director": "Guy Ritchie",
+      "actors": "Jason Flemyng, Dexter Fletcher, Nick Moran, Jason Statham",
+      "plot": "A botched card game in London triggers four friends, thugs, weed-growers, hard gangsters, loan sharks and debt collectors to collide with each other in a series of unexpected events, all for the sake of weed, cash and two antique shotguns.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"
+  },
+  {
+      "id": 32,
+      "title": "Lucky Number Slevin",
+      "year": "2006",
+      "runtime": "110",
+      "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+      ],
+      "director": "Paul McGuigan",
+      "actors": "Josh Hartnett, Bruce Willis, Lucy Liu, Morgan Freeman",
+      "plot": "A case of mistaken identity lands Slevin into the middle of a war being plotted by two of the city's most rival crime bosses: The Rabbi and The Boss. Slevin is under constant surveillance by relentless Detective Brikowski as well as the infamous assassin Goodkat and finds himself having to hatch his own ingenious plot to get them before they get him.",
+      "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-9bS7WUIIp6XMtG78t2f0LS4khduDwEUDPXZ-nauaoRW5TWeX"
+  },
+  {
+      "id": 33,
+      "title": "Rear Window",
+      "year": "1954",
+      "runtime": "112",
+      "genres": [
+          "Mystery",
+          "Thriller"
+      ],
+      "director": "Alfred Hitchcock",
+      "actors": "James Stewart, Grace Kelly, Wendell Corey, Thelma Ritter",
+      "plot": "A wheelchair-bound photographer spies on his neighbours from his apartment window and becomes convinced one of them has committed murder.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+  },
+  {
+      "id": 34,
+      "title": "Pan's Labyrinth",
+      "year": "2006",
+      "runtime": "118",
+      "genres": [
+          "Drama",
+          "Fantasy",
+          "War"
+      ],
+      "director": "Guillermo del Toro",
+      "actors": "Ivana Baquero, Sergi López, Maribel Verdú, Doug Jones",
+      "plot": "In the falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.",
+      "posterUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRU2QCY4Gt-o6BFV1SQy9jmewsG2SH47ODClkW4PIPVUauLDC5M"
+  },
+  {
+      "id": 35,
+      "title": "Shutter Island",
+      "year": "2010",
+      "runtime": "138",
+      "genres": [
+          "Mystery",
+          "Thriller"
+      ],
+      "director": "Martin Scorsese",
+      "actors": "Leonardo DiCaprio, Mark Ruffalo, Ben Kingsley, Max von Sydow",
+      "plot": "In 1954, a U.S. marshal investigates the disappearance of a murderess who escaped from a hospital for the criminally insane.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxMTIyNzMxMV5BMl5BanBnXkFtZTcwOTc4OTI3Mg@@._V1_SX300.jpg"
+  },
+  {
+      "id": 36,
+      "title": "Reservoir Dogs",
+      "year": "1992",
+      "runtime": "99",
+      "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+      ],
+      "director": "Quentin Tarantino",
+      "actors": "Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn",
+      "plot": "After a simple jewelry heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjE5ZDJiZTQtOGE2YS00ZTc5LTk0OGUtOTg2NjdjZmVlYzE2XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg"
+  },
+  {
+      "id": 37,
+      "title": "The Shining",
+      "year": "1980",
+      "runtime": "146",
+      "genres": [
+          "Drama",
+          "Horror"
+      ],
+      "director": "Stanley Kubrick",
+      "actors": "Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers",
+      "plot": "A family heads to an isolated hotel for the winter where an evil and spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future.",
+      "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1uTHLLpBhlXQEVDzar5kTUuDxo99jueJWXgVeTaQN1N6N58Tq"
+  },
+  {
+      "id": 38,
+      "title": "Midnight in Paris",
+      "year": "2011",
+      "runtime": "94",
+      "genres": [
+          "Comedy",
+          "Fantasy",
+          "Romance"
+      ],
+      "director": "Woody Allen",
+      "actors": "Owen Wilson, Rachel McAdams, Kurt Fuller, Mimi Kennedy",
+      "plot": "While on a trip to Paris with his fiancée's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s everyday at midnight.",
+      "posterUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIUMwMAFJkK7gDdvJ7KY9QsLGYR3YmbKFXPYCwxeCF9Wu1IDla"
+  },
+  {
+      "id": 39,
+      "title": "Les Misérables",
+      "year": "2012",
+      "runtime": "158",
+      "genres": [
+          "Drama",
+          "Musical",
+          "Romance"
+      ],
+      "director": "Tom Hooper",
+      "actors": "Hugh Jackman, Russell Crowe, Anne Hathaway, Amanda Seyfried",
+      "plot": "In 19th-century France, Jean Valjean, who for decades has been hunted by the ruthless policeman Javert after breaking parole, agrees to care for a factory worker's daughter. The decision changes their lives forever.",
+      "posterUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRleLq1WgIJ7z9Rc0gWWHZQw3MbbreQ1ZQmfAQKKbBdqSIxxMaI"
+  },
+  {
+      "id": 40,
+      "title": "L.A. Confidential",
+      "year": "1997",
+      "runtime": "138",
+      "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+      ],
+      "director": "Curtis Hanson",
+      "actors": "Kevin Spacey, Russell Crowe, Guy Pearce, James Cromwell",
+      "plot": "As corruption grows in 1950s LA, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.",
+      "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwOhDiO7iwKJvoRkz6iJoDIqqAlHnJfsJGvAIazSoulGyz7M6W"
+  }
   ]
   
